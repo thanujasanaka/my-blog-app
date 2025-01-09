@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 20px;
+    font-family: cursive;
+}
+header{
+    color: darkgreen;
+    text-align: center;
+    font-size: x-large;
+
+}
+
+main{
+    color: brown;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+button{
+    margin-left: 45%;
+    background-color: pink;
+    padding: 6px;
+
+}
+button a{
+    color: cyan;
+    text-decoration: none;
+    font-family: cursive;
+}
+
